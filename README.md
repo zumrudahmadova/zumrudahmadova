@@ -25,6 +25,6 @@ UI/UX Design Principles
 - 🌱 I’m currently learning Next.js,Typescript,socket.io
 - 📫 How to reach me:
 
-  email:zumrud.ahmad@gmail.com
+  email: zumrud.ahmad@gmail.com
   
   linkedin: https://www.linkedin.com/in/zumrud-ahmadova/
