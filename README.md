@@ -22,7 +22,7 @@ UI/UX Design Principles
 
 
 - 🔭 I’m currently working on Caspian Tech CJSC
-- 🌱 I’m currently learning Next.js,Typescript,socket.io
+- 🌱 I’m currently learning Next.js,TypeScript,socket.io
 - 📫 How to reach me:
 
   email: zumrud.ahmad@gmail.com
